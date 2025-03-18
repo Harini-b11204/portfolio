@@ -6,7 +6,7 @@ export default function Hero() {
         className="px-10 w-full flex gap-12 flex-col lg:flex-row 
                    justify-center items-center align-center mt-40 
                    mb-16 lg:mt-10 max-w-5xl mx-auto lg:gap-0 h-[80vh]">
-        <div className="flex-1 flex flex-col justify-center items-center gap-5">
+        <div className="flex-1 flex flex-col justify-left items-center gap-5">
           <div>
             <h5 className="text-center text-xl font-bold text-gray-500 mb-2">
                 Hi and welcome to

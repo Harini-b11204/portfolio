@@ -2,6 +2,7 @@ import InstagramIcon from '@mui/icons-material/Instagram';
 import GitHubIcon from '@mui/icons-material/GitHub';
 import EmailIcon from '@mui/icons-material/Email';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
+import PlaceIcon from '@mui/icons-material/Place';
 export default function Contact() {
     return (
         <section id="contact"
@@ -37,6 +38,12 @@ export default function Contact() {
                    href=
 "https://www.linkedin.com/in/harini-baskaran-b268bb257/">
                     <LinkedInIcon style={{color:'darkblue'}}/>
+                </a>
+                <a rel="noreferrer"
+                   target="_blank"
+                   className="text-center hover:underline"
+                   href="https://maps.app.goo.gl/JeCwukpvanVCNfB38">
+                    <PlaceIcon style={{color:'darkblue'}}/>
                 </a>
             </div>
         </section>
