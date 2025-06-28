@@ -14,12 +14,10 @@ export default function About() {
                     </h2>
                 </div>
                 <p className="text-center text-gray-600 text-lg" style={{fontFamily:'cursive'}}>
-                    As I said, I am your friendly developer...
+                  As I said, I am your friendly developer...
                 </p>
-                <p className="text-center text-gray-600 justify-center " style={{textAlign:'justify',fontFamily:'cursive'}}>
-                    I am a passionate self taught developer
-                     I am having an experience of about 4 years
-                    and had a deep understanding of anlysing data , processing and visualizing it. I am also experienced in web development
+                <p className="text-center text-gray-600 justify-center" style={{textAlign:'justify',fontFamily:'cursive'}}>
+                  I am a passionate self-taught developer with about 4 years of experience. I have a deep understanding of analyzing, processing, and visualizing data, and I am also experienced in web development.
                 </p>
             </div>
             <div className="flex-1">
