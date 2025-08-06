@@ -7,7 +7,7 @@ export default function Projects() {
             <h2 className="text-4xl text-blue-600 font-bold text-center" style={{paddingTop:'30px'}}>
                 My Projects
             </h2>
-            <div onClick={() =>window.open('https://github.com/Harini-b11204/ml-prediction-projects/tree/main/sentiment-analysis','_blank','noopener,noreferrer')} className="p-10 bg-blue-200 flex flex-col justify-center items-center
+            <div onClick={() =>window.open('https://github.com/Harini-b11204/ml-prediction-projects/tree/main/sentiment-analysis','_blank','noopener,noreferrer')} className="p-10 bg-blue-200 flex flex-col justify-center items-center cursor-pointer
                             gap-5 lg:flex-row max-w-5xl mx-auto shadow transition 
                             hover:shadow-xl hover:scale-[102%] w-full">
                 <div className="flex flex-col align-center mx-auto gap-4 justify-center flex-1">
@@ -19,7 +19,7 @@ export default function Projects() {
                     </p>
                 </div>
             </div>
-            <div onClick={() =>window.open('https://github.com/Harini-b11204/ml-prediction-projects/tree/main/stock-market-prediction','_blank','noopener,noreferrer')}  className="p-10 bg-blue-200 flex flex-col justify-center items-center gap-5 
+            <div onClick={() =>window.open('https://github.com/Harini-b11204/ml-prediction-projects/tree/main/stock-market-prediction','_blank','noopener,noreferrer')}  className="p-10 bg-blue-200 flex flex-col justify-center items-center cursor-pointer gap-5 
                             lg:flex-row-reverse max-w-5xl mx-auto shadow transition hover:shadow-xl 
                             hover:scale-[102%] w-full">
                 <div className="flex flex-col align-center mx-auto gap-4 justify-center flex-1">
@@ -31,7 +31,7 @@ export default function Projects() {
                     </p>
                 </div>
             </div>
-            <div onClick={() =>window.open('https://github.com/Harini-b11204/ml-prediction-projects/tree/main/house-price-prediction','_blank','noopener,noreferrer')}  className="p-10 bg-blue-200 flex flex-col justify-center items-center gap-5 
+            <div onClick={() =>window.open('https://github.com/Harini-b11204/ml-prediction-projects/tree/main/house-price-prediction','_blank','noopener,noreferrer')}  className="p-10 bg-blue-200 flex flex-col justify-center items-center cursor-pointer gap-5 
                             lg:flex-row-reverse max-w-5xl mx-auto shadow transition hover:shadow-xl 
                             hover:scale-[102%] w-full">
                 <div className="flex flex-col align-center mx-auto gap-4 justify-center flex-1">
