@@ -22,7 +22,7 @@ export default function Contact() {
                    target="_blank"
                    className="text-center hover:underline"
                    href=
-"https://github.com/Harini-112">
+"https://github.com/Harini-b11204">
                     <GitHubIcon style={{color:'darkblue'}}/>
                 </a>
                 <a rel="noreferrer"
