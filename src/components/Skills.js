@@ -1,6 +1,6 @@
 // Skills.js
 export default function Skills() {
-    const skills = ["Python","C","Java", "HTML", "CSS", "Javascript", "Reactjs", "Nodejs","SQL","MongoDB","EDA","Data Visualization","Data Warehousing"];
+    const skills = ["Python","C","Java", "HTML", "CSS", "Javascript", "Reactjs", "Nodejs","SQL","MongoDB","EDA","Data Visualization","Data Warehousing","Git","GitHub"];
     return (
         <section id="skills"
             className="px-10 w-full my-40 max-w-5xl mx-auto ">
