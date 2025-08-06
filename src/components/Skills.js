@@ -1,11 +1,11 @@
 // Skills.js
 export default function Skills() {
-    const skills = ["Python","C","Java", "HTML", "CSS", "Javascript", "Reactjs", "Nodejs","SQL"];
+    const skills = ["Python","C","Java", "HTML", "CSS", "Javascript", "Reactjs", "Nodejs","SQL","MongoDB","EDA","Data Visualization","Data Warehousing"];
     return (
         <section id="skills"
             className="px-10 w-full my-40 max-w-5xl mx-auto ">
             <h2 className="text-center text-4xl text-blue-600 font-bold" style={{paddingTop:'30px'}}>
-                My Skills...
+                My Skills
             </h2>
             <div className="mt-10 flex gap-4 justify-center 
                             flex-wrap mx-auto max-w-xxl">
