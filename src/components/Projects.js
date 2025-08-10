@@ -80,6 +80,28 @@ export default function Projects() {
                     </p>
                 </div>
             </div>
+            <div
+                onClick={() =>
+                    window.open(
+                        'https://github.com/Harini-b11204/AI-Chatbot',
+                        '_blank',
+                        'noopener,noreferrer'
+                    )
+                }
+                className="cursor-pointer p-10 bg-blue-200 flex flex-col justify-center items-center gap-5 
+                           lg:flex-row max-w-5xl mx-auto shadow transition hover:shadow-xl 
+                           hover:scale-[102%] w-full"
+            >
+                <div className="flex flex-col align-center mx-auto gap-4 justify-center flex-1">
+                    <h2 className="font-bold text-3xl text-center text-blue-500">
+                        Rule-Based Chatbot Using NLTK
+                    </h2>
+                    <p className="text-gray-700 text-lg" style={{ fontFamily: 'cursive' }}>
+                        A simple rule-based chatbot built with Python and NLTK (Natural Language Toolkit). 
+                        This chatbot uses pattern matching and basic natural language processing to provide responses to user input based on predefined rules.
+                    </p>
+                </div>
+            </div>
         </section>
     );
 }
