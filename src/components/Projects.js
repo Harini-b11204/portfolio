@@ -102,6 +102,28 @@ export default function Projects() {
                     </p>
                 </div>
             </div>
+            <div
+                onClick={() =>
+                    window.open(
+                        'https://github.com/Harini-b11204/NutriPlate',
+                        '_blank',
+                        'noopener,noreferrer'
+                    )
+                }
+                className="cursor-pointer p-10 bg-blue-200 flex flex-col justify-center items-center gap-5 
+                           lg:flex-row max-w-5xl mx-auto shadow transition hover:shadow-xl 
+                           hover:scale-[102%] w-full"
+            >
+                <div className="flex flex-col align-center mx-auto gap-4 justify-center flex-1">
+                    <h2 className="font-bold text-3xl text-center text-blue-500">
+                        NutriPlate – AI-powered Food Analysis System 🍽️
+                    </h2>
+                    <p className="text-gray-700 text-lg" style={{ fontFamily: 'cursive' }}>
+                        Scan your plate. Know your nutrition Instantly.
+                        NutriPlate is a food detection and nutrition analysis app powered by computer vision + AI models. 
+                    </p>
+                </div>
+            </div>
         </section>
     );
 }
