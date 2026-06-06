@@ -14,7 +14,7 @@ export default function Skills() {
                 <h3 className="text-center text-2xl text-blue-500 font-semibold mb-5">Technical Skills</h3>
                 <div className="flex gap-4 justify-center 
                                 flex-wrap mx-auto max-w-xxl">
-                    {technicalSkills.map((skill, index) => {
+                    {skills.map((skill, index) => {
                         return (
                             <div key={index}
                                  className="cursor-pointer px-12 py-10 
