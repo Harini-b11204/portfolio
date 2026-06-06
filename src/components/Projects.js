@@ -8,6 +8,24 @@ export default function Projects() {
             <h2 className="text-4xl text-blue-600 font-bold text-center" style={{ paddingTop: '30px' }}>
                 My Projects
             </h2>
+            {/* Professional Experience - UPS Logistics */}
+            <div className="p-10 bg-gradient-to-r from-blue-300 to-blue-200 flex flex-col justify-center items-center gap-5 
+                           lg:flex-row max-w-5xl mx-auto shadow-lg rounded-lg w-full">
+                <div className="flex flex-col align-center mx-auto gap-4 justify-center flex-1">
+                    <h2 className="font-bold text-3xl text-center text-blue-700">
+                        🚚 UPS Logistics - Professional Experience
+                    </h2>
+                    <p className="text-gray-800 text-lg font-semibold" style={{ fontFamily: 'cursive' }}>
+                        Current Role: ISM Intern
+                    </p>
+                    <p className="text-gray-700 text-base" style={{ fontFamily: 'cursive' }}>
+                        • Worked with Java-based backend technologies to implement scalable and maintainable solutions<br/>
+                        • Analyzing operational data to optimize delivery routes and reduce costs<br/>
+                        • Designed and executed SQL queries, database operations, and performance optimizations using PostgreSQL.<br/>
+                        • Contributing to full-stack development using modern technologies
+                    </p>
+                </div>
+            </div>
 
             {/* Sentiment Analysis */}
             <div
