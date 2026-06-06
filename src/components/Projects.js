@@ -6,17 +6,17 @@ export default function Projects() {
             className="my-20 w-full flex flex-col gap-5 align-center max-w-5xl mx-auto"
         >
             <h2 className="text-4xl text-blue-600 font-bold text-center" style={{ paddingTop: '30px' }}>
-                My Projects
-            </h2>
+                Professional Experience
+            </h2>  
             {/* Professional Experience - UPS Logistics */}
             <div className="p-10 bg-gradient-to-r from-blue-300 to-blue-200 flex flex-col justify-center items-center gap-5 
                            lg:flex-row max-w-5xl mx-auto shadow-lg rounded-lg w-full">
                 <div className="flex flex-col align-center mx-auto gap-4 justify-center flex-1">
                     <h2 className="font-bold text-3xl text-center text-blue-700">
-                        🚚 UPS Logistics - Professional Experience
+                        🚚 UPS Logistics Pvt. Ltd.
                     </h2>
                     <p className="text-gray-800 text-lg font-semibold" style={{ fontFamily: 'cursive' }}>
-                        Current Role: ISM Intern
+                        Role: ISM Intern
                     </p>
                     <p className="text-gray-700 text-base" style={{ fontFamily: 'cursive' }}>
                         • Worked with Java-based backend technologies to implement scalable and maintainable solutions<br/>
@@ -26,7 +26,10 @@ export default function Projects() {
                     </p>
                 </div>
             </div>
-
+            <h2 className="text-4xl text-blue-600 font-bold text-center" style={{ paddingTop: '30px' }}>
+                My Projects
+            </h2>
+           
             {/* Sentiment Analysis */}
             <div
                 onClick={() =>
