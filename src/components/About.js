@@ -14,10 +14,11 @@ export default function About() {
                     </h2>
                 </div>
                 <p className="text-center text-gray-600 text-lg" style={{fontFamily:'cursive'}}>
-                  As I said, I am your friendly developer...
+                  As I said, I am your friendly developer and data enthusiast!
                 </p>
-                <p className="text-center text-gray-600 justify-center" style={{textAlign:'justify',fontFamily:'cursive'}}>
-                  I am a passionate self-taught developer with about 4 years of experience. I have a deep understanding of analyzing, processing, and visualizing data, and I am also experienced in web development.
+                <p className="text-center text-gray-600 justify-center"
+                  style={{ textAlign: "justify", fontFamily: "cursive" }}>
+                  I am an AI & Data Science student and Backend Developer Intern at UPS with a strong interest in software engineering, cloud technologies, and intelligent systems. Skilled in Java, React, PostgreSQL, MongoDB, and AWS, I enjoy building scalable applications, working with data-driven solutions, and transforming innovative ideas into impactful products.
                 </p>
             </div>
             <div className="flex-1">
