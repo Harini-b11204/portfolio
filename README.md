@@ -20,7 +20,7 @@ Welcome to my professional portfolio website! Built with React.js and Tailwind C
 
 ## 📚 Current Role
 
-**Software Developer / Data Analyst at UPS Logistics pvt ltd**
+**Associate Developer at UPS Logistics pvt ltd**
 
 Contributing to logistics management applications, data analysis, and real-time tracking dashboards.
 
