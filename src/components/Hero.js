@@ -16,8 +16,8 @@ export default function Hero() {
             </h3>
           </div>
           <p className="text-center text-gray-600 text-lg" style={{fontFamily:'cursive'}}>
-            I am an Artificial intelligence and Data Science student aspiring to become a data analyst . You can download my resume here .. 
-          </p>
+            I am an aspiring Software Engineer and AI enthusiast currently pursuing a degree in Artificial Intelligence and Data Science while gaining industry experience as a Backend Developer Intern at UPS. My interests lie in backend engineering, cloud computing, data analytics, and intelligent systems. I thrive on solving complex problems, developing efficient solutions, and continuously expanding my technical expertise through hands-on projects and professional experience.
+        </p>
           <a href={Resume} alter="resume">
           <button className=" hover:bg-gray-200 text-blue-400 font-bold py-1 gap-10 align-center" style={{}}> Download My Resume</button>
         </a>
